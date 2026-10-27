@@ -80,7 +80,7 @@ An AI-powered content workflow designed to help create and adapt content for mul
 
 **Tech:** Amazon Bedrock Nova Lite · IndicTrans2 · Amazon Polly · AWS EC2 · API Gateway
 
-[Browse my repositories](https://github.com/abhaysahu-cse/AI-for-Bharat-Project) · *Direct repository and live-demo links to be added after verification.*
+[View Repository](https://github.com/abhaysahu-cse/AI-for-Bharat-Project) · *Direct repository and live-demo links to be added after verification.*
 
 ### 3. SafeSphere AI — Disaster Preparedness
 An AI-assisted disaster preparedness concept combining emergency alerts, SOS workflows, map-based information, multilingual assistance, and immersive preparedness content.
