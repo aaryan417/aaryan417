@@ -26,7 +26,9 @@ Hi, I'm **Aaryan Verma**, a B.Tech Computer Science student at **SIRT, Bhopal (C
 - 🤝 **Community:** Head Coordinator of the college Coding Club; social-work volunteering through True Sage Foundation
 
 I like turning ideas into useful software, learning by building, and understanding how applications run beyond the local development environment.
+## 📄 My Resume
 
+[⬇️ Download My Resume (PDF)](assets/Aaryan-Verma-Resume.pdf)
 ## 🛠️ Tech Stack
 
 ### Languages
