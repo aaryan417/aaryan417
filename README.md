@@ -139,6 +139,12 @@ SIRT, Bhopal · Expected 2027 · **CGPA: 8.38/10**
 
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aaryan417/aaryan417/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
 ## 🤝 Let's Connect
 
 I'm interested in opportunities across **Software Development, Backend Engineering, Full Stack Development, and Cloud / DevOps**.
